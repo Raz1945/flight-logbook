@@ -1,0 +1,13 @@
+# Ignorar todos los archivos con extensión .log
+*.log
+
+# Ignorar una carpeta llamada "node_modules"
+node_modules/
+
+# Ignorar un archivo específico
+config.ini
+
+# Ignorar todos los archivos en un directorio específico
+build/
+
+
